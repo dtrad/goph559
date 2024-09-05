@@ -152,3 +152,36 @@ These traps are formed due to variations in rock layers that are not related to 
 Seismic interpretation plays a crucial role in identifying and understanding these traps, guiding exploration and development strategies.
 
 
+## **Chemical processes**
+The process of transforming organic matter into petroleum occurs in three stages, known as **diagenesis**, **catagenesis**, and **metagenesis**, which are compared to a "cooking" process:
+
+1. **Diagenesis**: 
+   - Happens at shallow depths (up to 1,000 m) with temperatures below 60°C (140°F).
+   - Organic matter breaks down into methane (CH₄), carbon dioxide (CO₂), water (H₂O), and kerogen (a precursor to petroleum).
+   - Bacteria help in this process, and the type of kerogen depends on the original organic matter.
+
+2. **Catagenesis**: 
+   - Occurs as depth and temperature increase, with temperatures starting around 60°C.
+   - Bacteria no longer survive, and kerogen begins to break down into oil and gas. Heavy oil turns into lighter oil or gas at greater depths.
+
+3. **Metagenesis**: 
+   - Happens at very high temperatures and pressures, breaking gas molecules down into graphite (carbon).
+
+### Maturity Indicators:
+- **Vitrinite Reflectance**: Measures the maturity of organic matter to assess its hydrocarbon generation potential.
+- Other important indicators include **Thermal Alteration Index (TAI)** and **Total Organic Content (TOC)**, which help estimate the potential of rocks as source material for petroleum.
+
+These indicators are essential for assessing risks and can be used in numerical models or machine learning to follow up on reservoirs.
+
+
+## **Forces that lead to migration**
+From the paper on "Hydrocarbon Accumulation Control by Predominant Migration Pathways":
+
+Hydrocarbons migrate along paths of least resistance, following the largest buoyancy forces. Four main migration modes are identified:
+
+1. **Grade Difference**: Hydrocarbons move through areas of high porosity and permeability with significant contrasts to surrounding rocks.
+2. **Divided Syncline**: In overlying layers, hydrocarbons migrate in the opposite direction to the lowest point of a sedimentation center.
+3. **Fluid Pressure**: Hydrocarbons move towards areas with lower fluid pressure.
+4. **Flow Direction**: Hydrocarbons migrate vertically, following the direction influenced by buoyancy forces.
+
+This process ensures hydrocarbons accumulate in favorable traps for extraction.
