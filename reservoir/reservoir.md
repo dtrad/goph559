@@ -179,23 +179,11 @@ Reservoir simulation is a crucial tool for understanding the dynamic behavior of
 
 ---
 
-Certainly! Here’s a concise reference to the previous explanation on reservoir simulation:
+## Summary 
 
 Reservoir simulation is a computational process used to model fluid flow within a reservoir, incorporating geologic, petrophysical, and fluid property data to predict production and optimize recovery. The process involves building a 3D reservoir model, setting initial conditions, and integrating well models, which are then calibrated through history matching. Types of reservoir simulation include **black-oil**, **compositional**, **thermal**, and **dual-porosity** simulations, each suited for specific reservoir conditions (e.g., simple fluid compositions, complex hydrocarbon mixtures, temperature-dependent recovery, or fractured systems). Key applications include production optimization, enhanced oil recovery (EOR) planning, and field development.
 
 Reservoir simulation has clear benefits, like improving production strategies and forecasting future output, though it requires comprehensive data, significant computational resources, and must account for uncertainties.
-
---- 
-
-For a comprehensive understanding of reservoir simulation, including its components, types, and applications, the following resources are highly recommended:
-
-1. **Society of Petroleum Engineers (SPE) – Fundamentals of Reservoir Simulation**: This course provides an overview of the fundamental concepts and elements of reservoir simulation, covering various phases of reservoir modeling and the types of reservoir simulators. citeturn0search6
-
-2. **University of Texas at Austin – Reservoir Simulation Research**: This resource focuses on the development and application of reservoir simulators for various oil and gas recovery processes, offering insights into compositional reservoir simulators for enhanced oil recovery. citeturn0search4
-
-3. **Wikipedia – Reservoir Simulation**: This article offers a general overview of reservoir simulation, discussing its purpose, methods, and applications in predicting fluid flow through porous media. citeturn0search11
-
-These resources provide detailed information on the principles and practices of reservoir simulation, aligning with the explanation provided earlier. 
 
 ---
 
